@@ -1,0 +1,882 @@
+﻿Bell:2786:150.279:-33.5137 
+Berambing:2758:150.443:-33.5365 
+Bilpin:2758:150.522:-33.4983 
+Blackheath:2785:150.285:-33.6356 
+Blaxland:2774:150.61:-33.7443 
+Blaxland East:2774:150.622:-33.7457 
+Blaxlands Ridge:2758:150.712:-33.5023 
+Bullaburra:2784:150.416:-33.7276 
+Bulls Camp:2778:150.489:-33.7257 
+Castlereagh:2749:150.677:-33.6688 
+Cranebrook:2749:150.71:-33.7143 
+Dargan:2786:150.264:-33.4893 
+East Kurrajong:2758:150.765:-33.5145 
+Emu Heights:2750:150.65:-33.7356 
+Emu Plains:2750:150.653:-33.7541 
+Faulconbridge:2776:150.55:-33.684 
+Glenbrook:2773:150.622:-33.768 
+Glenmore Park:2745:150.669:-33.7907 
+Greendale:2546:172.084:-43.5728 
+Hawkesbury Heights:2777:150.651:-33.6651 
+Hazelbrook:2779:150.464:-33.7263 
+Jamisontown:2750:150.68:-33.7662 
+Katoomba:2780:150.312:-33.714 
+Katoomba Dc:2780:150.339:-33.7352 
+Kurrajong:2758:150.661:-33.5467 
+Kurrajong Heights:2758:150.629:-33.5239 
+Kurrajong Hills:2758:150.639:-33.5415 
+Lakesland:2572:150.527:-34.1809 
+Lapstone:2773:150.637:-33.7741 
+Lawson:2783:150.429:-33.7197 
+Leonay:2750:150.652:-33.761 
+Leura:2780:150.331:-33.7141 
+Linden:2778:150.504:-33.7155 
+Luddenham:2745:150.693:-33.8837 
+Medlow Bath:2780:150.281:-33.6725 
+Megalong:2785:150.246:-33.7041 
+Mount Irvine:2786:150.445:-33.4921 
+Mount Riverview:2774:150.631:-33.7343 
+Mount Tomah:2758:150.422:-33.5414 
+Mount Victoria:2786:150.251:-33.5886 
+Mount Wilson:2786:150.388:-33.5031 
+Mountain Lagoon:2758:150.625:-33.4456 
+Mulgoa:2745:150.683:-33.8382 
+Penrith:2750:150.692:-33.7524 
+Penrith Plaza:2750:150.683:-33.7677 
+Penrith South:2750:150.704:-33.7672 
+Regentville:2745:150.669:-33.7736 
+Shipley:2785:150.26:-33.6654 
+Silverdale:2752:150.599:-33.922 
+South Penrith:2750:150.704:-33.7672 
+Springwood:2777:150.559:-33.7006 
+Sun Valley:2777:150.592:-33.7121 
+The Devils Wilderness:2758:150.565:-33.526 
+Thirlmere:2572:150.571:-34.2041 
+Valley Heights:2777:150.585:-33.7053 
+Wallacia:2745:150.64:-33.8652 
+Warragamba:2752:150.605:-33.8897 
+Warrimoo:2774:150.604:-33.723 
+Wentworth Falls:2782:150.379:-33.729 
+Wheeny Creek:2758:150.811:-33.4298 
+Winmalee:2777:150.619:-33.6733 
+Woodford:2778:153.133:-29.4875 
+Yellow Rock:2527:150.731:-34.5975 
+Yosemite:2780:150.315:-33.6881 
+Ashbury:2193:151.119:-33.9019 
+Ashfield:2131:151.126:-33.8895 
+Bankstown:2200:151.035:-33.9195 
+Bankstown Aerodrome:2200:150.992:-33.9231 
+Bankstown North:2200:151.039:-33.9046 
+Bankstown Square:2200:151.036:-33.9169 
+Bass Hill:2197:150.994:-33.898 
+Belfield:2191:151.084:-33.9021 
+Belmore:2192:151.087:-33.916 
+Beverly Hills:2209:151.085:-33.9523 
+Birrong:2143:151.022:-33.8902 
+Burwood:2134:151.104:-33.8774 
+Burwood Heights:2136:151.103:-33.8883 
+Burwood North:2134:151.104:-33.876 
+Campsie:2194:151.102:-33.9136 
+Canterbury:2193:151.121:-33.9108 
+Chester Hill:2162:151.001:-33.8832 
+Chullora:2190:151.056:-33.8924 
+Clemton Park:2206:151.103:-33.9254 
+Condell Park:2200:151.012:-33.922 
+Croydon:2132:151.115:-33.8832 
+Croydon Park:2133:151.109:-33.8953 
+Earlwood:2206:151.126:-33.9265 
+East Hills:2213:150.987:-33.9634 
+Enfield:2136:151.092:-33.8869 
+Enfield South:2133:151.093:-33.8956 
+Georges Hall:2198:150.982:-33.9128 
+Greenacre:2190:151.057:-33.9067 
+Hurlstone Park:2193:151.132:-33.91 
+Hurstville Westfield:2220:151.115:-33.926 
+Kingsgrove:2208:151.101:-33.942 
+Kingsway West:2208:151.095:-33.95 
+Lakemba:2195:151.076:-33.9205 
+Manahan:2200:151.006:-33.9163 
+Milperra:2214:150.989:-33.9378 
+Mount Lewis:2190:151.048:-33.9172 
+Narwee:2209:151.07:-33.9486 
+Padstow:2211:151.038:-33.9539 
+Padstow Heights:2211:151.031:-33.9711 
+Panania:2213:150.998:-33.9561 
+Picnic Point:2213:151:-33.9793 
+Pleasure Point:2172:150.988:-33.9669 
+Potts Hill:2143:151.031:-33.8982 
+Punchbowl:2196:151.055:-33.9257 
+Regents Park:2143:151.024:-33.8839 
+Revesby:2212:151.017:-33.9515 
+Revesby Heights:2212:151.015:-33.9688 
+Revesby North:2212:151.007:-33.9436 
+Roselands:2196:151.073:-33.9332 
+Sandy Point:2172:150.994:-33.9754 
+Sefton:2162:151.011:-33.8855 
+Strathfield:2135:151.094:-33.8739 
+Strathfield South:2136:151.083:-33.8917 
+Undercliffe:2372:151.149:-33.9255 
+Voyager Point:2172:150.972:-33.9645 
+Wiley Park:2195:151.068:-33.9225 
+Yagoona:2199:151.026:-33.9077 
+Yagoona West:2199:151.026:-33.908 
+Alexandria:2015:151.196:-33.8976 
+Banksmeadow:2019:151.207:-33.9448 
+Beaconsfield:2015:151.202:-33.9116 
+Bellevue Hill:2023:151.259:-33.8872 
+Ben Buckler:2026:151.284:-33.8921 
+Bondi:2026:151.262:-33.8937 
+Bondi Beach:2026:151.275:-33.8905 
+Bondi Junction:2022:151.247:-33.8923 
+Bondi Junction Plaza:2022:151.247:-33.8911 
+Botany:2019:151.197:-33.9448 
+Bronte:2024:151.264:-33.9023 
+Centennial Park:2021:151.23:-33.8948 
+Charing Cross:2024:151.254:-33.9002 
+Chifley:2036:151.24:-33.9765 
+Chippendale:2008:151.202:-33.8868 
+Clovelly:2031:151.262:-33.9126 
+Clovelly West:2031:151.255:-33.9116 
+Coogee:2034:151.254:-33.9205 
+Daceyville:2032:151.225:-33.928 
+Darling Point:2027:151.237:-33.8738 
+Darlinghurst:2010:151.22:-33.8798 
+Darlington:2008:151.191:-33.8913 
+Diamond Bay:2030:151.284:-33.8603 
+Double Bay:2028:151.245:-33.8772 
+Dover Heights:2030:151.28:-33.8744 
+Eastgardens:2036:151.223:-33.946 
+Eastlakes:2018:151.213:-33.9251 
+Edgecliff:2027:151.235:-33.8786 
+Elizabeth Bay:2011:151.227:-33.8728 
+Eveleigh:2015:151.191:-33.8971 
+Golden Grove:2008:151.192:-33.8906 
+Hillsdale:2036:151.231:-33.9527 
+Hmas Kuttabul:2011:151.225:-33.8672 
+Hmas Rushcutters:2027:151.236:-33.8725 
+Hmas Watson:2030:151.281:-33.8412 
+Kensington:2033:151.223:-33.909 
+Kings Cross:2011:151.224:-33.8737 
+Kingsford:2032:151.228:-33.9249 
+La Perouse:2036:151.232:-33.9896 
+Little Bay:2036:151.243:-33.9812 
+Malabar:2036:151.246:-33.9654 
+Maroubra:2035:151.243:-33.9461 
+Maroubra South:2035:151.247:-33.9489 
+Mascot:2020:151.185:-33.9317 
+Matraville:2036:151.231:-33.9576 
+Moore Park:2021:151.219:-33.8936 
+North Bondi:2026:151.28:-33.8857 
+Paddington:2021:151.226:-33.885 
+Pagewood:2035:151.228:-33.9401 
+Phillip Bay:2036:151.237:-33.9806 
+Point Piper:2027:151.252:-33.8701 
+Port Botany:2036:151.225:-33.9662 
+Potts Point:2011:151.226:-33.869 
+Queens Park:2022:151.247:-33.9032 
+Randwick:2031:151.242:-33.9132 
+Redfern:2016:151.204:-33.8928 
+Rose Bay:2029:151.269:-33.8704 
+Rose Bay North:2030:151.28:-33.8666 
+Rosebery:2018:151.203:-33.9204 
+Rushcutters Bay:2011:151.229:-33.8762 
+South Coogee:2034:151.256:-33.9313 
+St Pauls:2031:151.243:-33.9202 
+Surry Hills:2010:151.213:-33.8888 
+Sydney Domestic Airport:2020:151.178:-33.933 
+Sydney International Airport:2020:151.166:-33.936 
+Tamarama:2026:151.272:-33.8974 
+Taylor Square:2010:151.216:-33.8811 
+Vaucluse:2030:151.278:-33.859 
+Waterloo:2017:151.206:-33.9004 
+Watsons Bay:2030:151.282:-33.8448 
+Waverley:2024:151.252:-33.898 
+Woollahra:2025:151.237:-33.8884 
+Woolloomooloo:2011:151.22:-33.8693 
+Zetland:2017:151.206:-33.9099 
+Agnes Banks:2753:150.707:-33.6189 
+Annangrove:2156:150.944:-33.6578 
+Arcadia:2159:151.053:-33.6231 
+Bar Point:2083:151.163:-33.5075 
+Berkshire Park:2765:150.796:-33.6722 
+Berowra Heights:2082:151.137:-33.611 
+Berowra Waters:2082:151.118:-33.6017 
+Berrilee:2159:151.096:-33.615 
+Bligh Park:2756:150.795:-33.6376 
+Bowen Mountain:2753:150.628:-33.5739 
+Box Hill:2765:150.905:-33.6391 
+Brooklyn:2083:151.225:-33.548 
+Canoelands:2157:151.061:-33.5087 
+Cattai:2756:150.91:-33.5558 
+Central Colo:2756:150.785:-33.4164 
+Central Macdonald:2775:150.975:-33.3317 
+Cheero Point:2083:151.195:-33.5146 
+Clarendon:2756:150.782:-33.6147 
+Cogra Bay:2083:151.223:-33.5196 
+Colo:2756:150.803:-33.4167 
+Colo Heights:2756:150.722:-33.3685 
+Cornwallis:2756:150.812:-33.5924 
+Cowan:2081:151.171:-33.5895 
+Cumberland Reach:2756:150.896:-33.4559 
+Dangar Island:2083:151.242:-33.5394 
+Dural:2158:151.028:-33.6819 
+Ebenezer:2756:150.881:-33.5247 
+Fernances:2775:150.995:-33.2015 
+Fiddletown:2159:151.056:-33.6023 
+Forest Glen:2157:151.013:-33.5495 
+Freemans Reach:2756:150.795:-33.5454 
+Galston:2159:151.043:-33.6527 
+Glenhaven:2156:151.007:-33.7032 
+Glenorie:2157:151.023:-33.62 
+Glossodia:2756:150.766:-33.5357 
+Grose Vale:2753:150.673:-33.5841 
+Grose Wold:2753:150.689:-33.6024 
+Gunderman:2775:151.057:-33.4364 
+Higher Macdonald:2775:150.937:-33.2155 
+Hillside:2157:150.976:-33.6006 
+Hobartville:2753:150.736:-33.6016 
+Kenthurst:2156:151.005:-33.661 
+Kurmond:2757:150.701:-33.5507 
+Laughtondale:2775:151.025:-33.4102 
+Leets Vale:2775:150.948:-33.4277 
+Londonderry:2753:150.737:-33.6452 
+Lower Hawkesbury:2775:151.045:-33.4408 
+Lower Macdonald:2775:150.967:-33.363 
+Lower Portland:2756:150.866:-33.4514 
+Maraylya:2765:150.907:-33.582 
+Marlow:2775:151.17:-33.4664 
+Maroota:2756:150.995:-33.4604 
+Marsden Park:2765:150.832:-33.6976 
+Mcgraths Hill:2756:150.84:-33.6134 
+Mellong:2756:150.694:-33.1709 
+Middle Dural:2158:151.021:-33.6485 
+Milsons Passage:2083:151.177:-33.519 
+Mogo Creek:2775:151.065:-33.166 
+Mooney Mooney:2083:151.198:-33.528 
+Mulgrave:2756:150.83:-33.6261 
+Nelson:2550:149.971:-36.6755 
+North Richmond:2754:150.722:-33.5824 
+Oakville:2765:150.862:-33.6226 
+Perrys Crossing:2775:150.97:-33.1968 
+Pitt Town:2756:150.86:-33.5862 
+Pitt Town Bottoms:2756:150.841:-33.5963 
+Richmond:2753:150.753:-33.5978 
+Richmond Lowlands:2753:150.758:-33.5686 
+Riverstone:2765:150.862:-33.6794 
+Round Corner:2158:151.018:-33.6951 
+Sackville:2756:150.876:-33.5029 
+Sackville North:2756:150.927:-33.4894 
+Scheyville:2756:150.88:-33.6107 
+Singletons Mill:2775:151.076:-33.4636 
+South Maroota:2756:150.949:-33.5231 
+South Windsor:2756:150.804:-33.6202 
+Spencer:2775:151.142:-33.4595 
+St Albans:2775:150.97:-33.2909 
+Tennyson:2754:150.737:-33.5364 
+The Slopes:2754:150.708:-33.5321 
+Upper Colo:2756:150.736:-33.4183 
+Upper Macdonald:2775:150.942:-33.2574 
+Vineyard:2765:150.859:-33.6464 
+Webbs Creek:2775:150.958:-33.3893 
+Wilberforce:2756:150.848:-33.5582 
+Windsor:2756:150.817:-33.6088 
+Windsor Downs:2756:150.803:-33.6677 
+Wisemans Ferry:2775:150.98:-33.4089 
+Womerah:2756:150.756:-33.2168 
+Wrights Creek:2775:151.006:-33.3028 
+Yarramundi:2753:150.673:-33.6273 
+Baulkham Hills:2153:150.993:-33.7586 
+Beaumont Hills:2155:150.947:-33.7034 
+Bella Vista:2153:150.955:-33.7373 
+Castle Hill:2154:151.006:-33.7323 
+Cherrybrook:2126:151.044:-33.7216 
+Colebee:2761:150.866:-33.7306 
+Crestwood:2620:150.977:-33.7463 
+Glenwood:2768:150.923:-33.7379 
+Gregory Hills:2557:150.973:-33.76 
+Oakhurst:2761:150.835:-33.744 
+Pennant Hills:2120:151.071:-33.7387 
+Plumpton:2761:150.841:-33.751 
+Rouse Hill:2155:150.915:-33.6821 
+Schofields:2762:150.869:-33.6974 
+Thornleigh:2120:151.081:-33.7308 
+West Pennant Hills:2125:151.039:-33.7537 
+Westleigh:2120:151.073:-33.712 
+Winston Hills:2153:150.988:-33.7761 
+Abbotsford:2046:151.129:-33.8525 
+Annandale:2038:151.171:-33.8814 
+Balmain:2041:151.178:-33.8565 
+Balmain East:2041:151.191:-33.8578 
+Birchgrove:2041:151.181:-33.8534 
+Breakfast Point:2137:151.107:-33.8416 
+Cabarita:2137:151.114:-33.8491 
+Camperdown:2050:151.175:-33.886 
+Canada Bay:2046:151.116:-33.8632 
+Chiswick:2046:151.136:-33.8514 
+Concord:2137:151.104:-33.8579 
+Concord West:2138:151.087:-33.848 
+Drummoyne:2047:151.155:-33.8511 
+Dulwich Hill:2203:151.143:-33.9042 
+Enmore:2042:151.171:-33.8994 
+Erskineville:2043:151.184:-33.8997 
+Five Dock:2046:151.13:-33.8664 
+Forest Lodge:2037:151.181:-33.8812 
+Glebe:2037:151.188:-33.8808 
+Haberfield:2045:151.139:-33.8805 
+Homebush:2140:151.082:-33.8597 
+Homebush Bay:2127:151.076:-33.8528 
+Homebush South:2140:151.084:-33.8678 
+Homebush West:2140:151.069:-33.8668 
+Leichhardt:2040:151.157:-33.8838 
+Lewisham:2049:151.144:-33.8949 
+Liberty Grove:2138:151.084:-33.8417 
+Lilyfield:2040:151.166:-33.873 
+Marrickville:2204:151.157:-33.9109 
+Marrickville Metro:2204:151.155:-33.9119 
+Marrickville South:2204:151.152:-33.9152 
+Missenden Road:2050:151.182:-33.889 
+Mortlake:2137:151.107:-33.8434 
+Newington:2127:151.055:-33.8393 
+Newtown:2042:151.18:-33.8965 
+North Strathfield:2137:151.092:-33.8575 
+Petersham:2049:151.154:-33.8962 
+Petersham North:2049:151.159:-33.8893 
+Rhodes:2138:151.088:-33.8308 
+Rodd Point:2046:151.142:-33.8682 
+Rozelle:2039:151.171:-33.8631 
+Russell Lea:2046:151.141:-33.8607 
+St Peters:2044:151.18:-33.9111 
+Stanmore:2048:151.165:-33.8974 
+Summer Hill:2130:151.137:-33.894 
+Sydenham:2044:151.166:-33.9152 
+Tempe:2044:151.161:-33.9248 
+The University of Sydney:2006:151.187:-33.8878 
+Ultimo:2007:151.197:-33.8784 
+Wareemba:2046:151.131:-33.8568 
+Wentworth Point:2127:151.076:-33.8308 
+Westgate:2048:170.467:-45.9104 
+Abbotsbury:2176:150.868:-33.8775 
+Ashcroft:2168:150.899:-33.9176 
+Austral:2179:150.812:-33.9331 
+Badgerys Creek:2555:150.744:-33.8746 
+Bonnyrigg:2177:150.887:-33.8888 
+Bonnyrigg Heights:2177:150.868:-33.8927 
+Bossley Park:2176:150.884:-33.8663 
+Bow Bowing:2566:150.837:-34.0153 
+Bringelly:2556:150.721:-33.9441 
+Busby:2168:150.875:-33.9109 
+Cabramatta:2166:150.936:-33.8951 
+Cabramatta West:2166:150.918:-33.8991 
+Canley Heights:2166:150.924:-33.8836 
+Canley Vale:2166:150.943:-33.8873 
+Carnes Hill:2171:150.833:-33.936 
+Carramar:2163:150.962:-33.8846 
+Cartwright:2168:150.89:-33.9266 
+Casula:2170:150.908:-33.9473 
+Casula Mall:2170:150.909:-33.95 
+Catherine Field:2557:150.775:-33.9935 
+Cecil Hills:2171:150.853:-33.8837 
+Cecil Park:2178:150.838:-33.8748 
+Chipping Norton:2170:150.962:-33.9168 
+Denham Court:2565:150.845:-33.9901 
+Eagle Vale:2558:150.814:-34.0379 
+Edensor Park:2176:150.875:-33.8771 
+Edmondson Park:2174:150.859:-33.9597 
+Elizabeth Hills:2171:150.845:-33.878 
+Eschol Park:2558:150.81:-34.0314 
+Fairfield:2165:150.956:-33.8685 
+Fairfield East:2165:150.978:-33.8694 
+Fairfield Heights:2165:150.938:-33.8646 
+Fairfield West:2165:150.922:-33.869 
+Glenfield:2167:150.895:-33.9713 
+Green Valley:2168:150.866:-33.9035 
+Greenfield Park:2176:150.889:-33.8722 
+Hammondville:2170:150.954:-33.9481 
+Heckenberg:2168:150.89:-33.9111 
+Hinchinbrook:2168:150.864:-33.9166 
+Horningsea Park:2171:150.843:-33.9451 
+Horsley Park:2175:150.851:-33.843 
+Hoxton Park:2171:150.858:-33.9268 
+Ingleburn:2565:150.866:-33.9987 
+Ingleburn Milpo:2174:150.859:-33.9597 
+Kearns:2558:150.803:-34.0213 
+Kemps Creek:2178:150.79:-33.8801 
+Lansdowne:2163:150.971:-33.8937 
+Lansvale:2166:150.953:-33.8973 
+Leppington:2179:150.817:-33.9643 
+Liverpool:2170:150.924:-33.925 
+Liverpool South:2170:150.907:-33.9334 
+Long Point:2330:151.11:-32.5689 
+Lurnea:2170:150.896:-33.9319 
+Macquarie Fields:2564:150.883:-33.9895 
+Macquarie Links:2565:150.868:-33.9822 
+Middleton Grange:2171:150.84:-33.9223 
+Miller:2168:150.885:-33.9194 
+Minto:2566:150.848:-34.032 
+Minto Heights:2566:150.871:-34.0375 
+Moorebank:2170:150.954:-33.9338 
+Mount Pritchard:2170:150.903:-33.8948 
+Mount Vernon:2178:150.808:-33.8624 
+Prairiewood:2176:150.902:-33.8673 
+Prestons:2170:150.872:-33.9429 
+Raby:2566:150.811:-34.0211 
+Rossmore:2557:150.773:-33.946 
+Sadleir:2168:150.89:-33.9206 
+Smithfield:2164:150.94:-33.8535 
+Smithfield West:2164:150.922:-33.8508 
+St Andrews:2566:150.832:-34.0187 
+St Johns Park:2176:150.905:-33.8858 
+Varroville:2566:150.823:-34.0103 
+Villawood:2163:150.976:-33.8837 
+Wakeley:2176:150.909:-33.874 
+Warwick Farm:2170:150.933:-33.9134 
+West Hoxton:2171:150.847:-33.9291 
+Wetherill Park:2164:150.913:-33.8475 
+Woodpark:2164:150.962:-33.8406 
+Artarmon:2064:151.186:-33.8094 
+Boronia Park:2111:151.156:-33.8351 
+Cammeray:2062:151.21:-33.822 
+Castlecrag:2068:151.213:-33.8024 
+Chatswood:2067:151.185:-33.7956 
+Chatswood West:2067:151.167:-33.7963 
+Cremorne:2090:151.23:-33.8281 
+Cremorne Junction:2090:151.209:-33.841 
+Cremorne Point:2090:151.228:-33.8445 
+Crows Nest:2065:151.199:-33.8261 
+Gladesville:2111:151.127:-33.8329 
+Gore Hill:2065:151.187:-33.8225 
+Greenwich:2065:151.186:-33.832 
+Henley:2111:151.136:-33.8422 
+Hmas Platypus:2060:151.206:-33.8388 
+Hmas Waterhen:2060:151.195:-33.8398 
+Hunters Hill:2110:151.156:-33.8351 
+Hunters Hill West:2110:151.156:-33.8351 
+Huntleys Cove:2111:151.139:-33.8397 
+Huntleys Point:2111:151.146:-33.8401 
+Kirribilli:2061:151.213:-33.8463 
+Kurraba Point:2089:151.193:-33.818 
+Lane Cove:2066:151.169:-33.8146 
+Lane Cove North:2066:151.171:-33.8076 
+Lane Cove West:2066:151.153:-33.8062 
+Lavender Bay:2060:151.208:-33.8431 
+Linley Point:2066:151.148:-33.8268 
+Longueville:2066:151.165:-33.8331 
+Mcmahons Point:2060:151.204:-33.8446 
+Middle Cove:2068:151.208:-33.7941 
+Milsons Point:2061:151.212:-33.8475 
+Monash Park:2111:151.125:-33.8225 
+Mosman:2088:151.244:-33.8291 
+Naremburn:2065:151.201:-33.8173 
+Neutral Bay:2089:151.221:-33.8311 
+Neutral Bay Junction:2089:151.222:-33.8315 
+North Sydney:2060:151.206:-33.8383 
+North Sydney Shopping World:2060:151.206:-33.8383 
+Northbridge:2063:151.208:-33.8104 
+Northwood:2066:151.178:-33.8297 
+Osborne Park:2066:151.179:-33.8165 
+Riverview:2066:151.16:-33.8256 
+Royal North Shore Hospital:2065:151.192:-33.8215 
+Spit Junction:2088:151.242:-33.823 
+St Leonards:2065:151.196:-33.8232 
+Waverton:2060:151.196:-33.84 
+Willoughby:2068:151.199:-33.8015 
+Willoughby North:2068:151.196:-33.7931 
+Wollstonecraft:2065:151.193:-33.8322 
+Woolwich:2110:151.173:-33.8384 
+Airds:2560:150.829:-34.0845 
+Ambarvale:2560:150.804:-34.0805 
+Appin:2560:150.787:-34.2009 
+Avon:2574:150.635:-34.3521 
+Balmoral:2283:151.58:-33.0475 
+Balmoral Village:2571:150.525:-34.2944 
+Bargo:2574:150.58:-34.2894 
+Belimbla Park:2570:150.543:-34.0759 
+Bickley Vale:2570:150.666:-34.0709 
+Blair Athol:2560:150.806:-34.0638 
+Blairmount:2559:150.8:-34.0495 
+Bradbury:2560:150.814:-34.086 
+Brownlow Hill:2570:150.657:-34.0348 
+Buxton:2571:150.534:-34.2544 
+Camden:2570:150.696:-34.0546 
+Camden Park:2570:150.722:-34.0887 
+Camden South:2570:150.695:-34.0875 
+Campbelltown:2560:150.813:-34.0674 
+Campbelltown North:2560:150.825:-34.0658 
+Cataract:2560:150.804:-34.2619 
+Cawdor:2570:150.672:-34.1087 
+Claymore:2559:150.81:-34.0455 
+Cobbitty:2570:150.691:-34.0159 
+Couridjah:2571:150.548:-34.2342 
+Currans Hill:2567:150.764:-34.0452 
+Douglas Park:2569:150.714:-34.1756 
+Elderslie:2335:151.333:-32.5918 
+Ellis Lane:2570:150.672:-34.0401 
+Englorie Park:2560:150.795:-34.0821 
+Gilead:2560:150.762:-34.107 
+Glen Alpine:2560:150.775:-34.0842 
+Glenmore:2570:150.598:-34.0633 
+Grasmere:2570:150.669:-34.0533 
+Harrington Park:2567:150.742:-34.0232 
+Holsworthy:2173:150.95:-33.9504 
+Kentlyn:2560:150.857:-34.0732 
+Kirkham:2570:150.717:-34.0385 
+Lefevres Corner:2570:150.304:-33.967 
+Leumeah:2560:150.833:-34.0523 
+Macarthur Square:2560:150.724:-34.2529 
+Maldon:2571:150.632:-34.1945 
+Menangle:2568:150.739:-34.1234 
+Menangle Park:2563:150.756:-34.1016 
+Mount Annan:2567:150.764:-34.0549 
+Mount Hunter:2570:150.641:-34.0712 
+Mowbray Park:2571:150.549:-34.1575 
+Narellan:2567:150.736:-34.0405 
+Narellan Vale:2567:150.744:-34.0553 
+Nattai:2570:150.446:-34.0689 
+Oakdale:2570:150.514:-34.0782 
+Oran Park:2570:150.724:-34.0069 
+Orangeville:2570:150.573:-34.0428 
+Pheasants Nest:2574:150.636:-34.256 
+Picton:2571:150.606:-34.1855 
+Razorback:2571:150.666:-34.1366 
+Rosemeadow:2560:150.8:-34.1018 
+Ruse:2560:150.844:-34.0693 
+Smeaton Grange:2567:150.757:-34.0391 
+Spring Farm:2570:150.728:-34.0702 
+St Helens Park:2560:150.798:-34.1123 
+Tahmoor:2573:150.589:-34.2279 
+The Oaks:2570:150.571:-34.0769 
+Theresa Park:2570:150.64:-34.0079 
+Wedderburn:2560:150.813:-34.1276 
+Werombi:2570:150.572:-33.9889 
+Wilton:2571:150.696:-34.2404 
+Woodbine:2560:150.819:-34.0499 
+Yanderra:2574:150.569:-34.3242 
+Akuna Bay:2084:151.238:-33.644 
+Allambie:2100:151.261:-33.7735 
+Allambie Heights:2100:151.249:-33.7651 
+Avalon:2107:151.329:-33.6361 
+Avalon Beach:2107:151.331:-33.6363 
+Balgowlah:2093:151.263:-33.7941 
+Balgowlah Heights:2093:151.257:-33.8006 
+Bayview:2104:151.29:-33.6591 
+Beacon Hill:2100:151.261:-33.7524 
+Belrose:2085:151.211:-33.7393 
+Bilgola:2107:151.324:-33.6456 
+Brookvale:2100:151.274:-33.7666 
+Careel Bay:2107:151.327:-33.6231 
+Church Point:2105:151.284:-33.6449 
+Clareville:2107:151.313:-33.6349 
+Clontarf:2093:151.255:-33.8082 
+Coasters Retreat:2108:151.296:-33.6036 
+Collaroy:2097:151.303:-33.741 
+Collaroy Beach:2097:151.301:-33.7321 
+Collaroy Plateau West:2097:151.287:-33.728 
+Cottage Point:2084:151.204:-33.6196 
+Cromer:2099:151.279:-33.7404 
+Cromer Heights:2099:151.265:-33.735 
+Curl Curl:2096:151.294:-33.7689 
+Currawong Beach:2108:151.298:-33.5973 
+Davidson:2085:151.194:-33.7387 
+Dee Why:2099:151.286:-33.7535 
+Dee Why Beach:2099:151.297:-33.7539 
+Duffys Forest:2084:151.2:-33.6768 
+Elanora Heights:2101:151.28:-33.695 
+Elvina Bay:2105:151.276:-33.642 
+Fairlight:2094:151.27:-33.7962 
+Forestville:2087:151.214:-33.762 
+Frenchs Forest:2086:151.226:-33.751 
+Frenchs Forest East:2086:151.245:-33.7515 
+Freshwater:2096:151.286:-33.779 
+Great Mackerel Beach:2108:151.3:-33.5917 
+Harbord:2096:151.286:-33.7787 
+Ingleside:2101:151.262:-33.6832 
+Killarney Heights:2087:151.216:-33.7737 
+Long Reef:2097:151.311:-33.7393 
+Lovett Bay:2105:151.278:-33.6374 
+Manly:2095:151.289:-33.7985 
+Manly East:2095:151.289:-33.8018 
+Manly Vale:2093:151.267:-33.784 
+Mona Vale:2103:151.303:-33.6786 
+Morning Bay:2105:151.282:-33.623 
+Narrabeen:2101:151.287:-33.7231 
+Narrabeen Peninsula:2101:151.297:-33.7125 
+Narraweena:2099:151.275:-33.7499 
+Newport:2106:151.309:-33.6599 
+Newport Beach:2106:151.323:-33.6525 
+North Balgowlah:2093:151.252:-33.7871 
+North Curl Curl:2099:151.296:-33.7617 
+North Manly:2100:151.269:-33.7757 
+North Narrabeen:2101:151.294:-33.7027 
+Oxford Falls:2100:151.248:-33.7302 
+Paradise Beach:2107:151.319:-33.6243 
+Queenscliff:2096:151.288:-33.7846 
+Scotland Island:2105:151.29:-33.6418 
+Seaforth:2092:151.251:-33.7971 
+Taylors Point:2107:151.306:-33.637 
+Terrey Hills:2084:151.228:-33.6836 
+The Basin:2108:151.294:-33.6024 
+Warriewood:2102:151.3:-33.6991 
+Warringah Mall:2100:151.259:-33.7534 
+Whale Beach:2107:151.33:-33.6143 
+Wheeler Heights:2097:151.277:-33.7325 
+Wingala:2099:151.285:-33.7643 
+Beecroft:2119:151.065:-33.7495 
+Blenheim Road:2113:151.134:-33.7988 
+Carlingford:2118:151.048:-33.783 
+Carlingford Court:2118:151.056:-33.7767 
+Carlingford North:2118:151.048:-33.7632 
+Cheltenham:2119:151.079:-33.7617 
+Denistone:2114:151.08:-33.7994 
+Denistone East:2112:151.098:-33.7972 
+Denistone West:2114:151.078:-33.8007 
+Dundas:2117:151.044:-33.7994 
+Dundas Valley:2117:151.061:-33.7872 
+East Ryde:2113:151.14:-33.8138 
+Eastwood:2122:151.081:-33.79 
+Epping:2121:151.082:-33.7725 
+Ermington:2115:151.054:-33.8141 
+Kingsdene:2118:151.028:-33.7843 
+Macquarie Centre:2113:151.121:-33.777 
+Macquarie Park:2113:151.134:-33.7798 
+Marsfield:2122:151.094:-33.784 
+Meadowbank:2114:151.091:-33.8159 
+Melrose Park:2114:151.076:-33.8166 
+North Epping:2121:151.088:-33.7598 
+North Ryde:2113:151.124:-33.7968 
+Oatlands:2117:151.026:-33.7963 
+Putney:2112:151.113:-33.8247 
+Ryde:2112:151.105:-33.813 
+Telopea:2117:151.045:-33.796 
+Tennyson Point:2111:151.117:-33.8314 
+West Ryde:2114:151.089:-33.8077 
+Auburn:2144:151.033:-33.8493 
+Auburn South:2144:151.03:-33.8634 
+Berala:2141:151.031:-33.8719 
+Blaxcell:2142:151.008:-33.8533 
+Camellia:2142:151.022:-33.8169 
+Clyde:2142:151.019:-33.8323 
+Constitution Hill:2145:150.975:-33.8012 
+Flemington Markets:2129:151.069:-33.8668 
+Girraween:2145:150.947:-33.7998 
+Granville:2142:151.011:-33.8359 
+Greystanes:2145:150.951:-33.8297 
+Guildford:2161:150.986:-33.854 
+Guildford West:2161:150.972:-33.8511 
+Harris Park:2150:151.009:-33.8224 
+Holroyd:2142:150.993:-33.8298 
+Lidcombe:2141:151.044:-33.8652 
+Lidcombe North:2141:151.047:-33.8542 
+Mays Hill:2145:150.991:-33.8207 
+Merrylands:2160:150.989:-33.8364 
+Merrylands West:2160:150.972:-33.8329 
+North Parramatta:2151:151.011:-33.798 
+North Rocks:2151:151.029:-33.7681 
+Northmead:2152:150.996:-33.7893 
+Old Guildford:2161:150.988:-33.8671 
+Old Toongabbie:2146:150.974:-33.7927 
+Parramatta:2150:151.003:-33.817 
+Pemulwuy:2145:150.921:-33.8159 
+Pendle Hill:2145:150.956:-33.8019 
+Rookwood:2141:151.058:-33.8664 
+Rosehill:2142:151.025:-33.82 
+Rydalmere:2116:151.042:-33.8123 
+Silverwater:2128:0:0 
+South Granville:2142:151.006:-33.863 
+South Wentworthville:2145:150.969:-33.8239 
+Sydney Markets:2129:151.069:-33.8668 
+Sydney Olympic Park:2127:151.067:-33.848 
+Toongabbie:2146:150.951:-33.7889 
+Toongabbie East:2146:150.97:-33.7859 
+Wentworthville:2145:150.97:-33.8059 
+Westmead:2145:150.987:-33.8053 
+Yennora:2161:150.969:-33.8609 
+Allawah:2218:151.115:-33.97 
+Arncliffe:2205:151.145:-33.9363 
+Banksia:2216:151.14:-33.9452 
+Bardwell Park:2207:151.126:-33.9321 
+Bardwell Valley:2207:151.135:-33.9351 
+Beverley Park:2217:151.131:-33.9751 
+Bexley:2207:151.127:-33.9491 
+Bexley North:2207:151.114:-33.9383 
+Bexley South:2207:151.117:-33.9595 
+Blakehurst:2221:151.112:-33.9887 
+Brighton-Le-Sands:2216:151.155:-33.9605 
+Carlton:2218:151.125:-33.9685 
+Carss Park:2221:151.119:-33.9866 
+Connells Point:2221:151.089:-33.9919 
+Dolls Point:2219:151.147:-33.9935 
+Hurstville:2220:151.101:-33.9659 
+Hurstville Grove:2220:151.091:-33.9807 
+Kogarah:2217:151.133:-33.9631 
+Kogarah Bay:2217:151.123:-33.9791 
+Kyeemagh:2216:151.16:-33.9515 
+Kyle Bay:2221:151.098:-33.9912 
+Lugarno:2210:151.047:-33.983 
+Monterey:2217:151.151:-33.9731 
+Mortdale:2223:151.075:-33.9722 
+Oatley:2223:151.083:-33.9814 
+Peakhurst:2210:151.062:-33.9597 
+Peakhurst Heights:2210:151.058:-33.9681 
+Penshurst:2222:151.087:-33.9633 
+Ramsgate:2217:151.14:-33.9847 
+Ramsgate Beach:2217:151.148:-33.9811 
+Riverwood:2210:151.052:-33.9499 
+Rockdale:2216:151.138:-33.9527 
+Sandringham:2219:151.139:-33.9988 
+Sans Souci:2219:151.133:-33.9906 
+South Hurstville:2221:151.105:-33.9776 
+Turrella:2205:151.141:-33.93 
+Wolli Creek:2205:151.155:-33.9307 
+Alfords Point:2234:151.025:-33.9933 
+Audley:2232:151.057:-34.0753 
+Bangor:2234:151.03:-34.0189 
+Barden Ridge:2234:151.005:-34.0329 
+Bardia:2565:150.948:-33.957 
+Bonnet Bay:2226:151.054:-34.0095 
+Bundeena:2230:151.151:-34.0851 
+Burraneer:2230:151.137:-34.0651 
+Caravan Head:2225:151.088:-33.9974 
+Caringbah:2229:151.123:-34.0432 
+Caringbah South:2229:151.13:-34.067 
+Como:2226:151.068:-34.0042 
+Cronulla:2230:151.154:-34.052 
+Dolans Bay:2229:151.127:-34.0597 
+Engadine:2233:151.013:-34.0657 
+Garie:2232:151.06:-34.1686 
+Grays Point:2232:151.082:-34.0588 
+Gymea:2227:151.085:-34.0331 
+Gymea Bay:2227:151.086:-34.0482 
+Heathcote:2233:151.009:-34.0791 
+Illawong:2234:151.043:-33.998 
+Jannali:2226:151.065:-34.0171 
+Kangaroo Point:2224:151.096:-33.998 
+Kareela:2232:151.083:-34.0147 
+Kirrawee:2232:151.071:-34.0337 
+Kurnell:2231:151.205:-34.0085 
+Lilli Pilli:2229:151.114:-34.0698 
+Loftus:2232:151.051:-34.0481 
+Lucas Heights:2234:150.988:-34.048 
+Maianbar:2230:151.13:-34.0818 
+Menai:2234:151.015:-34.0126 
+Menai Central:2234:151.015:-34.0126 
+Miranda:2228:151.1:-34.034 
+Oyster Bay:2225:151.081:-34.0069 
+Port Hacking:2229:151.122:-34.0675 
+Sutherland:2232:151.058:-34.0314 
+Sylvania:2224:151.105:-34.0081 
+Sylvania Southgate:2224:151.102:-34.0109 
+Sylvania Waters:2224:151.116:-34.0198 
+Taren Point:2229:151.125:-34.0125 
+Warumbul:2229:151.103:-34.0783 
+Waterfall:2233:150.995:-34.1352 
+Wattle Grove:2173:150.936:-33.9633 
+Woolooware:2230:151.141:-34.0483 
+Woronora:2232:151.048:-34.0207 
+Woronora Heights:2233:151.028:-34.0348 
+Yarrawarrah:2233:151.033:-34.0585 
+Yowie Bay:2228:151.104:-34.0499 
+Barangaroo:2000:151.207:-33.8671 
+Darling Harbour:2000:151.199:-33.8746 
+Darling Island:2009:151.195:-33.8655 
+Dawes Point:2000:151.208:-33.8556 
+Haymarket:2000:151.203:-33.8808 
+Millers Point:2000:151.204:-33.8583 
+Parliament House:2000:151.207:-33.8671 
+Pyrmont:2009:151.194:-33.8697 
+Sydney:2000:151.207:-33.8671 
+Sydney South:2000:151.206:-33.8743 
+The Rocks:2000:151.209:-33.8592 
+Asquith:2077:151.109:-33.6875 
+Belrose West:2085:151.211:-33.739 
+Berowra:2081:151.15:-33.6236 
+Berowra Creek:2082:151.134:-33.6053 
+Bobbin Head:2074:151.158:-33.6557 
+Castle Cove:2069:151.2:-33.7842 
+Collaroy Plateau:2097:151.242:-33.753 
+Curraweela:2580:151.213:-33.756 
+East Killara:2071:151.17:-33.7535 
+East Lindfield:2070:151.186:-33.7664 
+Gordon:2072:151.153:-33.7558 
+Hornsby:2077:151.099:-33.7047 
+Hornsby Heights:2077:151.096:-33.6701 
+Killara:2071:151.162:-33.7664 
+Lindfield:2070:151.169:-33.7764 
+Lindfield West:2070:151.169:-33.776 
+Mount Colah:2079:151.115:-33.6709 
+Mount Kuring-Gai:2080:151.134:-33.647 
+Normanhurst:2076:151.097:-33.721 
+North St Ives:2075:151.174:-33.7132 
+North Turramurra:2074:151.147:-33.7134 
+North Wahroonga:2076:151.123:-33.7027 
+North Willoughby:2068:151.199:-33.8015 
+Palm Beach:2108:151.321:-33.6043 
+Pymble:2073:151.141:-33.7441 
+Roseville:2069:151.177:-33.7846 
+Roseville Chase:2069:151.195:-33.7789 
+South Turramurra:2074:151.113:-33.746 
+St Ives:2075:151.159:-33.7306 
+St Ives Chase:2075:151.163:-33.7079 
+Turramurra:2074:151.13:-33.7332 
+Wahroonga:2076:151.118:-33.7164 
+Waitara:2077:151.104:-33.7095 
+Warrawee:2074:151.126:-33.7228 
+West Pymble:2073:151.126:-33.7604 
+Willoughby East:2068:151.204:-33.8025 
+Acacia Gardens:2763:150.907:-33.7301 
+Arndell Park:2148:150.872:-33.7873 
+Bidwill:2770:150.823:-33.7302 
+Blackett:2770:150.811:-33.7385 
+Blacktown:2148:150.909:-33.7702 
+Blacktown Westpoint:2148:150.902:-33.7763 
+Cambridge Gardens:2747:150.722:-33.7356 
+Cambridge Park:2747:150.725:-33.7515 
+Claremont Meadows:2747:150.753:-33.7704 
+Colyton:2760:150.793:-33.7767 
+Dean Park:2761:150.86:-33.7362 
+Dharruk:2770:150.817:-33.7432 
+Doonside:2767:150.869:-33.7651 
+Eastern Creek:2766:150.852:-33.8031 
+Emerton:2770:150.808:-33.7429 
+Erskine Park:2759:150.789:-33.8076 
+Glendenning:2761:150.855:-33.739 
+Hassall Grove:2761:150.834:-33.734 
+Hebersham:2770:150.823:-33.7435 
+Huntingwood:2148:150.88:-33.7975 
+Jordan Springs:2747:150.725:-33.7515 
+Kellyville:2155:150.958:-33.7124 
+Kellyville Ridge:2155:150.929:-33.7001 
+Kings Langley:2147:150.923:-33.7421 
+Kings Park:2148:150.905:-33.7457 
+Kingswood:2340:150.919:-31.1659 
+Lalor Park:2147:150.93:-33.7613 
+Lethbridge Park:2770:150.8:-33.7369 
+Llandilo:2747:150.757:-33.7089 
+Marayong:2148:150.898:-33.7462 
+Minchinbury:2770:150.814:-33.7817 
+Mount Druitt:2770:150.817:-33.7664 
+Mount Druitt Village:2770:150.812:-33.7721 
+North St Marys:2760:150.782:-33.7568 
+Orchard Hills:2748:150.716:-33.7793 
+Oxley Park:2760:150.793:-33.7713 
+Parklea:2768:150.924:-33.7281 
+Prospect:2148:150.916:-33.8016 
+Quakers Hill:2763:150.881:-33.7284 
+Rooty Hill:2766:150.844:-33.7715 
+Ropes Crossing:2760:150.781:-33.7273 
+Seven Hills:2147:150.934:-33.7755 
+Seven Hills West:2147:150.924:-33.771 
+Shalvey:2770:150.808:-33.7294 
+Shanes Park:2747:150.783:-33.7113 
+St Clair:2330:151.295:-32.3414 
+St Marys:2760:150.774:-33.7668 
+St Marys East:2760:150.792:-33.7822 
+St Marys South:2760:150.776:-33.7785 
+Stanhope Gardens:2768:150.934:-33.7112 
+The Ponds:2769:150.929:-33.7001 
+Tregear:2770:150.796:-33.7511 
+Werrington:2747:150.74:-33.7577 
+Werrington County:2747:150.751:-33.7479 
+Werrington Downs:2747:150.734:-33.7406 
+Whalan:2770:150.81:-33.7602 
+Willmot:2770:150.792:-33.7276 
+Woodcroft:2767:150.88:-33.755 
