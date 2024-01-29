@@ -4,18 +4,17 @@ namespace SuburbCalulator;
 
 public static class SuburbCalc
 {
-    public static List<Suburb> GetSuburbsWithinDistance(string pcrg, double distance)
+    private static List<Suburb> allSuburbs = spGetSuburbs();
+    public static int count;
+    public static (List<Suburb> suburbs, int count) GetSuburbsWithinDistance(string pcrg, double distance)
     {
-        List<Suburb> allSuburbs = spGetSuburbs();
-
+        count = 0;
         var startingSuburb = GetSuburb(pcrg, allSuburbs);
         if (startingSuburb == null)
         {
             throw new ArgumentException("Starting suburb not found.");
         }
-
         List<Suburb> suburbsWithinDistance = new List<Suburb>();
-
         foreach (var suburb in allSuburbs)
         {
             double dist = Haversine.Distance(
@@ -25,10 +24,17 @@ public static class SuburbCalc
             if (dist <= distance)
             {
                 suburbsWithinDistance.Add(suburb);
+                count++;
             }
         }
+        return (suburbsWithinDistance, count);
+    }
 
-        return suburbsWithinDistance;
+    public static double DistanceBetweenSuburbs(string pcrg1, string pcrg2) 
+    {
+        var startingSuburb=GetSuburb(pcrg1, allSuburbs);
+        var endingSuburb = GetSuburb(pcrg2, allSuburbs);
+        return Haversine.Distance(startingSuburb.longitude, startingSuburb.latitude, endingSuburb.longitude, endingSuburb.latitude);
     }
     public static Suburb GetSuburb(string pcrg, List<Suburb> suburbs)
     {

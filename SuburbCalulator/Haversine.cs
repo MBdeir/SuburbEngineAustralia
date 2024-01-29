@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SuburbCalulator;
 
-public class Haversine
+internal class Haversine
 {
-    public static double Distance(double lon1, double lat1, double lon2, double lat2)
+    internal static double Distance(double lon1, double lat1, double lon2, double lat2)
     {
         const double EarthRadiusKm = 6371.0;
 
@@ -24,7 +24,7 @@ public class Haversine
         return EarthRadiusKm * c;
     }
 
-    public static double ToRadians(double angleInDegrees)
+    internal static double ToRadians(double angleInDegrees)
     {
         return angleInDegrees * (Math.PI / 180);
     }

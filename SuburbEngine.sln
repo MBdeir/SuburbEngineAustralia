@@ -5,7 +5,9 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuburbWebScrapper", "SuburbWebScrapper\SuburbWebScrapper.csproj", "{A7646675-95A7-460A-BCF6-8204530D94F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuburbCalulator", "SuburbCalulator\SuburbCalulator.csproj", "{546C10AE-5B6C-4E3C-8CB1-8C9D13BE4B46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuburbCalulator", "SuburbCalulator\SuburbCalulator.csproj", "{546C10AE-5B6C-4E3C-8CB1-8C9D13BE4B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester", "tester\tester.csproj", "{ACD98BDB-1DFE-4747-B670-937C13203CBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{546C10AE-5B6C-4E3C-8CB1-8C9D13BE4B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{546C10AE-5B6C-4E3C-8CB1-8C9D13BE4B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{546C10AE-5B6C-4E3C-8CB1-8C9D13BE4B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD98BDB-1DFE-4747-B670-937C13203CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD98BDB-1DFE-4747-B670-937C13203CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD98BDB-1DFE-4747-B670-937C13203CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD98BDB-1DFE-4747-B670-937C13203CBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
