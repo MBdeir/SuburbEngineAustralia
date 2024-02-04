@@ -13,4 +13,5 @@ public class Suburb
     public double longitude { get; set; }
     public double latitude { get; set; }
 
+    public bool isJustOutofRange { get; set; }
 }
