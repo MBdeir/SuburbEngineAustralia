@@ -45,7 +45,7 @@ public static class SuburbCalc
         var connectionString = Environment.GetEnvironmentVariable("WJconnectionString");
         using (var cn = new SqlConnection(connectionString))
         {
-            var query = "SELECT name, postcode, rowguid, longitude, latitude FROM postcode";
+            var query = "SELECT name, postcode, rowguid, longitude, latitude FROM suburb";
             cn.Open();
             var suburbs = cn.Query<Suburb>(query).ToList();
             return suburbs;

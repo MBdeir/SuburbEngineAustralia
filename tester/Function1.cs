@@ -16,19 +16,21 @@ public static class Function1
     public static async Task<IActionResult> Run([HttpTrigger(AuthorizationLevel.Function, "get", Route = null)] HttpRequest req,ILogger log)
     {
         string pcrg1 = req.Query["pcrg1"];
-        //string pcrg2 = req.Query["pcrg2"];
+        string pcrg2 = req.Query["pcrg2"];
 
         string distance1 = req.Query["distance"];
 
 
-        int distance = Int32.Parse(distance1);
+        //int distance = Int32.Parse(distance1);
 
 
-        //double distance = SuburbCalc.DistanceBetweenSuburbs(pcrg1, pcrg2);
+        double distance = SuburbCalc.DistanceBetweenSuburbs(pcrg1, pcrg2);
 
-        var result = SuburbCalc.GetSuburbsWithinDistance(pcrg1, distance);
+        //var result = SuburbCalc.GetSuburbsWithinDistance(pcrg1, distance);
 
-        return new OkObjectResult(new { count = result.count, avaliableSuburbs = result.suburbs });
+        //        return new OkObjectResult(new { count = result.count, avaliableSuburbs = result.suburbs });
 
+        //Bexley and Turrella
+        return new OkObjectResult(distance);
     }
 }
